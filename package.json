@@ -1,0 +1,10 @@
+{
+  "name": "github_actions_demo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
